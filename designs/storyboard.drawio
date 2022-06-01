@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="TDUtpKXpew1Cujk3Dwm5" name="Page-1">
+        <mxGraphModel dx="1074" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="160" width="640" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Volume of a sphere" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="160" width="640" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Formula" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="280" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;h4 style=&quot;padding: 0px ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-weight: 400 ; line-height: 32px ; margin: 24px 0px 16px ; color: rgba(0 , 0 , 0 , 0.87)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;V= 4/3πr³&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="270" width="70" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="The dimensions are:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="345" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Radius" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="380" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="null" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="380" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="The volume is _____ cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="410" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Image" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
