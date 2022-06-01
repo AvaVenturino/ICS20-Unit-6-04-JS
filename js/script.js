@@ -13,7 +13,7 @@ if (navigator.serviceWorker) {
   });
 }
 
-window.onload = function() {
+window.onload = function( ) {
   // this calculates volume of a sphere
 
   const params = new URLSearchParams(document.location.search);
