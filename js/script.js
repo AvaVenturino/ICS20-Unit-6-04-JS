@@ -13,18 +13,18 @@ if (navigator.serviceWorker) {
   });
 }
 
-window.onload = function( ) {
+window.onload = function() {
   // this calculates volume of a sphere
 
   const params = new URLSearchParams(document.location.search);
 
   // input
-  const radius = params.get("r")
+  const radius = params.get("r");
   // process
   const volume = (4 / 3) * Math.PI * Math.pow(radius, 3);
   const dimensions = "<ul>\n<li>Radius = " + radius + "</li>\n</ul>";
   // output
-  document.getElementById("dimensions").innerHTML = dimensions
+  document.getElementById("dimensions").innerHTML = dimensions;
   document.getElementById("volume").innerHTML =
-    "The volume is: " + volume.toFixed(2) + " cm³" 
+    "The volume is: " + volume.toFixed(2) + " cm³";
 };
